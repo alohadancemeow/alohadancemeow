@@ -3,8 +3,8 @@
 - 💬 Ask me about ...
 
 ```javascript
-// Geetting Message
-console.log(' おはようございます ');
+// Hi, senpai
+console.log(' おはようございます せんぱい ');
 
 // Pleased to meet you
 console.log(' はじめまして、どうぞよろしく。');
