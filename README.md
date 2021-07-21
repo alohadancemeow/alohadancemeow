@@ -15,7 +15,6 @@ console.log("Good Game and Good morning bro!");
 <img src="https://img.icons8.com/color/24/000000/react-native.png" width="26px" align="left"/>
 <img src="https://img.icons8.com/color/48/000000/npm.png"  width="26px" align="left"/>
 <img src="https://img.icons8.com/color/48/000000/git.png" width="26px" align="left"/>
-<img src="https://img.icons8.com/fluent-systems-regular/24/000000/github.png" width="26px" align="left"/>
 
 <br />
 <br />
