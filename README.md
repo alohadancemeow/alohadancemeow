@@ -9,9 +9,9 @@ console.log("Good Game and Good morning bro!");
 
 ### Languages and Tools:
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="26px"/>
-<img src="https://img.icons8.com/color/50/000000/css3.png"  width="26px"/>
-<img src="https://img.icons8.com/color/50/000000/javascript--v1.png" width="26px"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="26px" align="left"/>
+<img src="https://img.icons8.com/color/50/000000/css3.png"  width="26px" align="left"/>
+<img src="https://img.icons8.com/color/50/000000/javascript--v1.png" width="26px" align="left"/>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 
