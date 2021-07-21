@@ -3,8 +3,8 @@
 - 💬 Ask me about ...
 
 ```javascript
-// Please say something
-console.log("Good Game and Good morning bro!");
+// Pleased to meet you
+console.log("はじめまして、どうぞよろしく。");
 ```
 
 ### Languages and Tools:
@@ -25,8 +25,3 @@ console.log("Good Game and Good morning bro!");
 
 <br />
 <br />
-
-```javascript
-// Pleased to meet you
-console.log("はじめまして、どうぞよろしく。");
-```
