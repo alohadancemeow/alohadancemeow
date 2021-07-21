@@ -1,10 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Hai [はい]
 
 - 💬 Ask me about ...
 
 ```javascript
+// Geetting Message
+console.log(' おはようございます ');
+
 // Pleased to meet you
-console.log("はじめまして、どうぞよろしく。");
+console.log(' はじめまして、どうぞよろしく。');
 ```
 
 ### Languages and Tools:
