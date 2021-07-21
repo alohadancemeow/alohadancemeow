@@ -16,6 +16,7 @@ console.log(' はじめまして、どうぞよろしく。');
 <img src="https://img.icons8.com/color/50/000000/css3.png"  width="26px" align="left"/>
 <img src="https://img.icons8.com/color/50/000000/javascript--v1.png" width="26px" align="left"/>
 <img src="https://img.icons8.com/color/24/000000/react-native.png" width="26px" align="left"/>
+<img src="https://img.icons8.com/color/48/000000/gatsbyjs.png" width="26px" align="left"/>
 <img src="https://img.icons8.com/color/48/000000/npm.png"  width="26px" align="left"/>
 <img src="https://img.icons8.com/color/48/000000/git.png" width="26px" align="left"/>
 
