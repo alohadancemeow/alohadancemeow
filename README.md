@@ -3,7 +3,7 @@
 - 💬 Ask me about ...
 
 ```javascript
-// Hi, senpai
+// Hi! Senpai
 console.log(' おはようございます せんぱい ');
 
 // Pleased to meet you
