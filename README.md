@@ -2,7 +2,7 @@
 
 ```javascript
 // Hi! Senpai
-console.log(" IF YOU'RE GOING TO TRY, GO ALL THE WAY. OTHERWISE, DON'T EVEN START. ");
+console.log(" IF YOU'RE GOING TO TRY, GO ALL THE WAY. OTHERWISE, DON'T EVEN START. -BUCOWSKI ");
 ```
 
 ### Languages & Frameworks : I am learning
