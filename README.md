@@ -2,10 +2,7 @@
 
 ```javascript
 // Hi! Senpai
-console.log(' おはようございます せんぱい ');
-
-// Pleased to meet you
-console.log(' はじめまして、どうぞよろしく。');
+console.log(' IF YOU'RE GOING TO TRY, GO ALL THE WAY. OTHERWISE, DON'T EVEN START. :v ');
 ```
 
 ### Languages & Frameworks : I am learning
