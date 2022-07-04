@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Hai [はい]
 
-- 💬 Ask me about ...
-
 ```javascript
 // Hi! Senpai
 console.log(' おはようございます せんぱい ');
