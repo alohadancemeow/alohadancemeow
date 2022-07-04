@@ -23,7 +23,6 @@ console.log(' はじめまして、どうぞよろしく。');
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-<br />
 
 ### Software & Game :
 
@@ -33,11 +32,6 @@ console.log(' はじめまして、どうぞよろしく。');
 
 <br />
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 <br />
