@@ -21,8 +21,8 @@ console.log(" IF YOU'RE GOING TO TRY, GO ALL THE WAY. OTHERWISE, DON'T EVEN STAR
 
 ### Software & Game :
 
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="26px" align="left"/>
-<img src="https://img.icons8.com/fluent/48/000000/dota.png" width="26px" align="left"/>
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
 
 <br />
