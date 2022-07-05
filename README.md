@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Hai [はい]
 
 ```javascript
-// Quote for me ✌️
+// Quotes for me ✌️
 console.log(" IF YOU'RE GOING TO TRY, GO ALL THE WAY. OTHERWISE, DON'T EVEN START. -BUCOWSKI ");
 ```
 
