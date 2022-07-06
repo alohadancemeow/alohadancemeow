@@ -1,5 +1,3 @@
-<!--START_SECTION:readme-info-->
-
 ### Hi there 👋 I'm Hai [はい]
 
 ```javascript
@@ -31,9 +29,10 @@ console.log(" IF YOU'RE GOING TO TRY, GO ALL THE WAY. OTHERWISE, DON'T EVEN STAR
 
 <br />
 
-
+<!--START_SECTION:readme-info-->
 
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
+asdwa
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
 
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
