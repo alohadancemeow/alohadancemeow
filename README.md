@@ -49,5 +49,3 @@ console.log(" IF YOU'RE GOING TO TRY, GO ALL THE WAY. OTHERWISE, DON'T EVEN STAR
 
 <!--START_SECTION_LANGUAGE:readme-info-->
 <!--END_SECTION_LANGUAGE:readme-info-->
-
-<br />
