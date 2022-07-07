@@ -29,6 +29,7 @@ console.log(" IF YOU'RE GOING TO TRY, GO ALL THE WAY. OTHERWISE, DON'T EVEN STAR
 
 <br />
 
+### Coding stats
 <!--START_SECTION:readme-info-->
 <!--END_SECTION:readme-info-->
 
@@ -49,3 +50,8 @@ console.log(" IF YOU'RE GOING TO TRY, GO ALL THE WAY. OTHERWISE, DON'T EVEN STAR
 
 <!--START_SECTION_LANGUAGE:readme-info-->
 <!--END_SECTION_LANGUAGE:readme-info-->
+
+<br />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alohadancemeow&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
