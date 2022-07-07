@@ -5,7 +5,7 @@
 console.log(" IF YOU'RE GOING TO TRY, GO ALL THE WAY. OTHERWISE, DON'T EVEN START. -BUCOWSKI ");
 ```
 
-### Languages & Frameworks : I am learning
+### :unamused: Languages & Frameworks : I am learning
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,12 +21,12 @@ console.log(" IF YOU'RE GOING TO TRY, GO ALL THE WAY. OTHERWISE, DON'T EVEN STAR
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 
 
-### Software & Game :
+### :confounded: Software & Game :
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
-### Coding stats :
+### :sneezing_face: Coding stats :
 
 <!--START_SECTION:waka-->
 
@@ -42,8 +42,6 @@ Other        0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
-
-### Readme info :
 
 <!--START_SECTION:readme-info-->
 <!--END_SECTION:readme-info-->
