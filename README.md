@@ -26,10 +26,7 @@ console.log(" IF YOU'RE GOING TO TRY, GO ALL THE WAY. OTHERWISE, DON'T EVEN STAR
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
-
-<br />
-
-### Coding stats
+### Coding stats :
 
 <!--START_SECTION:waka-->
 
@@ -45,8 +42,3 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-<br />
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alohadancemeow&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
