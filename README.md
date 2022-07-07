@@ -30,6 +30,11 @@ console.log(" IF YOU'RE GOING TO TRY, GO ALL THE WAY. OTHERWISE, DON'T EVEN STAR
 <br />
 
 ### Coding stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <!--START_SECTION:readme-info-->
 <!--END_SECTION:readme-info-->
 
