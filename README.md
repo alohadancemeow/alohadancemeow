@@ -2,7 +2,8 @@
 
 ```javascript
 // Quotes for me ✌️
-console.log(" IF YOU'RE GOING TO TRY, GO ALL THE WAY. OTHERWISE, DON'T EVEN START. -BUCOWSKI ");
+> "IF YOU'RE GOING TO TRY, GO ALL THE WAY. OTHERWISE, DON'T EVEN START." 
+- SAID BUCOWSKI
 ```
 
 ### :unamused: Languages & Frameworks : I am learning
