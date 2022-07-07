@@ -34,9 +34,7 @@ console.log(" IF YOU'RE GOING TO TRY, GO ALL THE WAY. OTHERWISE, DON'T EVEN STAR
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 June 2022 - To: 06 July 2022
-
-Total Time: 7 hrs 24 mins
+From: 06 June 2022 - To: 06 July 2022
 
 TypeScript   6 hrs 41 mins   ██████████████████████▓░░   90.22 %
 JavaScript   20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
