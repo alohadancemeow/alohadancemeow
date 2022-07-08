@@ -64,3 +64,5 @@ Other        0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--START_SECTION_LANGUAGE:readme-info-->
 <!--END_SECTION_LANGUAGE:readme-info-->
+
+![](./profile-3d-contrib/profile-night-green.svg)
