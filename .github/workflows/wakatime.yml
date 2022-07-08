@@ -12,17 +12,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
-      - uses: th3c0d3br34ker/github-readme-info@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           TIME_RANGE: last_30_days
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          TIMEZONE: "Asia/Kolkata"
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_PROFILE_VIEWS: "True"
-          SHOW_DAILY_COMMIT: "True"
-          SHOW_WEEKLY_COMMIT: "True"
-          SHOW_LANGUAGE: "True"
-          SHOW_TOTAL_CONTRIBUTIONS: "True"
