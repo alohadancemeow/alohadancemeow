@@ -44,25 +44,5 @@ Other        0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-<!--START_SECTION:readme-info-->
-<!--END_SECTION:readme-info-->
-
-<!--START_SECTION_PROFILE_VIEWS:readme-info-->
-<!--END_SECTION_PROFILE_VIEWS:readme-info-->
-
-<!--START_SECTION_LINES_OF_CODE:readme-info-->
-<!--END_SECTION_LINES_OF_CODE:readme-info-->
-
-<!--START_CONTRIBUTIONS:readme-info-->
-<!--END_CONTRIBUTIONS:readme-info-->
-
-<!--START_SECTION_DAILY_COMMIT:readme-info-->
-<!--END_SECTION_DAILY_COMMIT:readme-info-->
-
-<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
-<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
-
-<!--START_SECTION_LANGUAGE:readme-info-->
-<!--END_SECTION_LANGUAGE:readme-info-->
-
-![](./profile-3d-contrib/profile-night-green.svg)
+### :mask: 3D profile image :
+![](./profile-3d-contrib/profile-night-rainbow.svg)
