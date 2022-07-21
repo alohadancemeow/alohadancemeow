@@ -41,6 +41,3 @@ Git Config   4 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
-
-### :mask: 3D profile image :
-![](./profile-3d-contrib/profile-night-rainbow.svg)
