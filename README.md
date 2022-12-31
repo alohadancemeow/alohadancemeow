@@ -2,7 +2,7 @@
 I'm Hai [はい] aka : alohadancemeow :v:
 
 - 🌱 I’m currently learning **Next.js, React Native, TypeScript**
-- ⚡ Fun fact **I wanna be a Manga writer, illustrator**
+- ⚡ I'm recently interested in **Data Science**
 
 ```bash
 > "IF YOU'RE GOING TO TRY, GO ALL THE WAY. OTHERWISE, DON'T EVEN START." 
