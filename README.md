@@ -29,7 +29,7 @@ I'm Hai [はい] aka : alohadancemeow :v:
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 January 2023 - To: 08 January 2023
+From: 02 January 2023 - To: 09 January 2023
 
 TypeScript   2 hrs 32 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀   68.58 %
 Other        36 mins         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.31 %
