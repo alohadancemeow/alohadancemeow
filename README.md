@@ -24,7 +24,7 @@ I'm Hai [はい] aka : alohadancemeow :v:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 <!-- ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) -->
 
-### :sneezing_face: Coding stats :
+### :sneezing_face: Weekly coding stats :
 
 <!--START_SECTION:waka-->
 
