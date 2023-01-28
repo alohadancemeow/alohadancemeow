@@ -6,7 +6,7 @@ I'm Hai [はい] aka : alohadancemeow :v:
 
 ```bash
 > "IF YOU'RE GOING TO TRY, GO ALL THE WAY. OTHERWISE, DON'T EVEN START." 
-- SAID BUCOWSKI
+― CHARLES BUKOWSKI
 ```
 
 ### :unamused: Languages & Frameworks :
