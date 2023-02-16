@@ -9,7 +9,7 @@ I'm Hai [はい] aka : alohadancemeow :v:
 ― CHARLES BUKOWSKI
 ```
 
-### :unamused: Languages & Frameworks :
+### 🍀 Languages & Frameworks :
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -19,13 +19,13 @@ I'm Hai [はい] aka : alohadancemeow :v:
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-### :confounded: Softwares & Tools :
+### 🍃 Softwares & Tools :
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 <!-- ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) -->
 
-### :sneezing_face: Weekly coding stats :
+### 🐛 Weekly coding stats :
 
 <!--START_SECTION:waka-->
 
