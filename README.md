@@ -1,7 +1,7 @@
 ### Hi there 👋 
 I'm Hai [はい] aka : alohadancemeow :v:
 
-- 🚀 I’m currently learning **Next.js, TypeScript, tRPC, React Native, Python, Go.**
+- 💯 I’m currently learning **Next.js, TypeScript, tRPC, React Native, Python, Go.**
 - 🔥 I'm interested in **UX/UI Design, Writing Skills, Data Science.**
 
 ```bash
@@ -31,7 +31,7 @@ I'm Hai [はい] aka : alohadancemeow :v:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 <!-- ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) -->
 
-### 🐛 Weekly coding stats :
+### 🐛 Coding stats :
 
 <!--START_SECTION:waka-->
 
@@ -42,3 +42,6 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+![.](https://raw.githubusercontent.com/alohadancemeow/github-stats-transparent/output/generated/overview.svg)
+![.](https://raw.githubusercontent.com/alohadancemeow/github-stats-transparent/output/generated/languages.svg)
