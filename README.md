@@ -1,7 +1,7 @@
 ### Hi there 👋 
 I'm Hai [はい] aka : alohadancemeow :v:
 
-- 🚀 I’m currently learning **Next.js, TypeScript, tRPC, React Native, Python.**
+- 🚀 I’m currently learning **Next.js, TypeScript, tRPC, React Native, Python, Go.**
 - 🔥 I'm interested in **UX/UI Design, Writing Skills, Data Science.**
 
 ```bash
@@ -19,6 +19,7 @@ I'm Hai [はい] aka : alohadancemeow :v:
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 <!-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) -->
@@ -27,6 +28,7 @@ I'm Hai [はい] aka : alohadancemeow :v:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 <!-- ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) -->
 
 ### 🐛 Weekly coding stats :
