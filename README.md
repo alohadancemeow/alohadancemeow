@@ -1,7 +1,7 @@
 ### Hi there 👋 
 I'm Hai [はい] aka : alohadancemeow :v:
 
-- 💯 I’m currently learning **Next.js, TypeScript, tRPC, React Native, Python, Go.**
+- 💯 I’m currently learning **Next.js, TypeScript, tRPC, React Native, Astro, Python, Go.**
 - 🔥 I'm interested in **UX/UI Design, Writing Skills, Data Science.**
 
 ```bash
