@@ -2,7 +2,7 @@
 I'm Hai [はい] aka : alohadancemeow :v:
 
 - 💯 I’m currently learning **Next.js, TypeScript, Flutter, Dart, Astro, Python, Go, Docker.**
-- 🔥 I'm interested in **UX/UI Design, Writing Skills, Data Science.**
+- 🔥 I'm interested in **UX/UI Design, Writing Skills, Data Science, Software Testing.**
 
 ```bash
 > "IF YOU'RE GOING TO TRY, GO ALL THE WAY. OTHERWISE, DON'T EVEN START." 
@@ -20,9 +20,9 @@ I'm Hai [はい] aka : alohadancemeow :v:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 <!-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) -->
