@@ -1,7 +1,7 @@
 ### Hi there 👋 
 I'm Hai [はい] aka : alohadancemeow :v:
 
-- 💯 I’m currently learning **Next.js, TypeScript, Flutter, Dart, Astro, Python, Go, Docker.**
+- 💯 I’m currently learning **Next.js, TypeScript, Flutter, Dart, Python, Go, Docker.**
 - 🔥 I'm interested in **UX/UI Design, Writing Skills, Data Science, Software Testing.**
 
 ```bash
