@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I'm Hai [はい] aka : alohadancemeow :v:
+I'm Hai — 海 —  aka: alohadancemeow 🐸
 
 - 💯 I’m currently learning **Next.js, TypeScript, Flutter, React Native, Python, Go, Docker, Bun, Drizzle, Rust.**
 - 🔥 I'm interested in **UX/UI Design, Writing Skills, Data Science, Software Testing.**
