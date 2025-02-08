@@ -39,13 +39,6 @@ I'm Hai — 海 —  aka: alohadancemeow 🐸
 ### 🐛 Coding stats :
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 31 January 2025 - To: 07 February 2025
-
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 ![.](https://raw.githubusercontent.com/alohadancemeow/github-stats-transparent/output/generated/overview.svg)
