@@ -1,8 +1,8 @@
 ### Hi there 👋 
 I'm Hai — 海 —  aka: alohadancemeow 🐸
 
-- 💯 I’m currently learning **Next.js, TypeScript, Flutter, React Native, Astro, Python, Go, Docker, Bun, Drizzle, Rust.**
-- 🔥 I'm interested in **UX/UI Design, Writing Skills, Data Science, Software Testing.**
+- 💯 I’m currently learning **Next.js, TypeScript, Astro, Python, Go, Docker, Bun, Rust.**
+- 🔥 I'm interested in **UX/UI Design, Writing Skills, Software Testing, Data Science.**
 
 ```bash
 > "IF YOU'RE GOING TO TRY, GO ALL THE WAY. OTHERWISE, DON'T EVEN START." 
@@ -36,15 +36,6 @@ I'm Hai — 海 —  aka: alohadancemeow 🐸
 <!--![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) -->
 
-### 🐛 Coding stats :
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 ![.](https://raw.githubusercontent.com/alohadancemeow/github-stats-transparent/output/generated/overview.svg)
 ![.](https://raw.githubusercontent.com/alohadancemeow/github-stats-transparent/output/generated/languages.svg)
