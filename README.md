@@ -1,6 +1,7 @@
 ### Hi there 👋 
 I'm Hai — 海 —  aka: alohadancemeow 🐸
 
+- 🔭 I’m a student majoring in **Software engineering for data science.**
 - 💯 I’m currently learning **Next.js, TypeScript, Astro, Python, Go, Docker, Bun, Rust.**
 - 🔥 I'm interested in **UX/UI Design, Writing Skills, Software Testing, Data Science.**
 
