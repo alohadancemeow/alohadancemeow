@@ -1,9 +1,11 @@
 ### Hi there 👋 
-I'm Hai — 海 —  aka: alohadancemeow 🐸
+I'm Hai — 海 —  aka: alohadancemeow 🐸 
+
+![](/header.png)
 
 - 🔭 I’m a student majoring in **Software engineering for data science.**
 - 💯 I’m currently learning **TypeScript, Next.js, Astro, Docker, Go, Rust.**
-- 🔥 I'm interested in **UX/UI Design, Writing Skills, Software Testing, and maybe Data Science.**
+- 🔥 I'm interested in **UX/UI Design, Writing Skills, Software Testing,** and maybe **Data Science.**
 - ✍️ I'm an apprentice blogger at **[alohadancemeow](https://alohadancemeow.com/)** ✌️
 
 ```bash
@@ -42,3 +44,5 @@ I'm Hai — 海 —  aka: alohadancemeow 🐸
 
 ![.](https://raw.githubusercontent.com/alohadancemeow/github-stats-transparent/output/generated/overview.svg)
 ![.](https://raw.githubusercontent.com/alohadancemeow/github-stats-transparent/output/generated/languages.svg)
+
+![](https://komarev.com/ghpvc/?username=alohadancemeow&style=for-the-badge)
