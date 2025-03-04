@@ -1,7 +1,7 @@
 ### Hi there 👋 
 I'm Hai — 海 —  aka: alohadancemeow 🐸 
 
-![](/header.png)
+<!--![](/header.png)--->
 
 - 🔭 I’m a student majoring in **Software engineering for data science.**
 - 💯 I’m currently learning **TypeScript, Next.js, Astro, Docker, Go, Rust.**
