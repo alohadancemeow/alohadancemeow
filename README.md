@@ -45,4 +45,3 @@ I'm Hai — 海 —  aka: alohadancemeow 🐸
 ![.](https://raw.githubusercontent.com/alohadancemeow/github-stats-transparent/output/generated/overview.svg)
 ![.](https://raw.githubusercontent.com/alohadancemeow/github-stats-transparent/output/generated/languages.svg)
 
-![](https://komarev.com/ghpvc/?username=alohadancemeow&style=for-the-badge)
