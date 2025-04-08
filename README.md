@@ -1,5 +1,5 @@
-### Hi there 👋 
-I'm Hai — 海 —  aka: alohadancemeow 🐸 
+### Hi there 👋
+I'm Hai —  aka: alohadancemeow 🐸 
 
 <!--![](/header.png)--->
 
