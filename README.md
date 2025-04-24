@@ -81,4 +81,4 @@ I'm Hai —  aka: alohadancemeow 🐸
 ![.](https://raw.githubusercontent.com/alohadancemeow/github-stats-transparent/output/generated/languages.svg)
 
 
-<a href="https://gitroll.io/profile/uqqz6zb19qJVenWoV03JM3pv6b5x2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uqqz6zb19qJVenWoV03JM3pv6b5x2?theme=light" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/uqqz6zb19qJVenWoV03JM3pv6b5x2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uqqz6zb19qJVenWoV03JM3pv6b5x2?theme=dark" alt="GitRoll Profile Badge"/></a>
