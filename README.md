@@ -3,7 +3,7 @@ I'm Hai《嗨》—  aka: alohadancemeow 🐸
 
 <!--![](/header.png)--->
 
-- 🔭 I’m a student of **KMUTT.**
+<!-- - 🔭 I’m a student of **KMUTT.** --->
 - 💯 I’m currently learning **TypeScript, Next.js, Astro, Docker, Go, Rust.**
 - 🔥 I'm interested in **UX/UI Design, Writing Skills, Software Testing,** and maybe **Data Science.**
 - ✍️ I'm an apprentice blogger at **[alohadancemeow](https://alohadancemeow.com/)** ✌️
