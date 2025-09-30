@@ -4,7 +4,7 @@ I'm Hai《海》—  aka: alohadancemeow 🐸
 <!--![](/header.png)--->
 
 <!-- - 🔭 I’m a student of **KMUTT.** --->
-- 🔭 I’m currently learning **TypeScript, Next.js, Astro, Docker, Go, Rust.**
+- 🔭 I’m currently learning **TypeScript, Next.js, Astro, Svelte, Docker, Go, Rust.**
 - 🔥 I'm interested in **UX/UI Design, Writing Skills, Software Testing,** and maybe **Data Science.**
 <!-- - ✍️ I'm an apprentice blogger at **[alohadancemeow](https://next-level-blog.vercel.app/)** ✌️--->
 
