@@ -1,4 +1,7 @@
-### Hi there 👋 I'm Hai《海》—  aka: alohadancemeow 🐸 
+### Hi there 👋 
+> I'm Hai — aka: alohadancemeow 🐸 大家好，我叫海，泰国人。 
+
+<!-- I'm Hai《海》— aka: alohadancemeow 🐸 -->
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=alohadancemeow&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
