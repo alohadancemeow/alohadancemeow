@@ -3,7 +3,8 @@
 
 <!-- I'm Hai《海》— aka: alohadancemeow 🐸 -->
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=alohadancemeow&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
+<!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=alohadancemeow&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox) -->
+
 
 <!--![](/header.png)--->
 
